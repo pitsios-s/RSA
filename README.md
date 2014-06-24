@@ -7,3 +7,5 @@ This project was developed for the purposes of the course 'Advanced Topics in Al
 during the Spring semester 2012 - 2013.
 
 This program can be used for generating public/private keys, as well as encypt/decrypt messages.
+
+More details about the implementation can be found in the Wiki page.
