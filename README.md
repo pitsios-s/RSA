@@ -1,11 +1,8 @@
 RSA
 ===
 
-A project for encrypting/decrypting messages, using the RSA algorithm, implemented in java.
-
-This project was developed for the purposes of the course 'Advanced Topics in Algorithms' of cs department, Athens University of Economics and Business, 
-during the Spring semester 2012 - 2013.
-
+An application for encrypting/decrypting messages, using the RSA algorithm
 This program can be used for generating public/private keys, as well as encypt/decrypt messages.
+The current implementation allows keys of size from 8 bits to 2048 bits.
 
 More details about the implementation can be found in the Wiki page.
